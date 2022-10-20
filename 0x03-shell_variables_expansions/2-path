@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH:/action
+echo 'echo"hello $USER"'
